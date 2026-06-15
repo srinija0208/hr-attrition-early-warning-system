@@ -170,6 +170,7 @@ HR-Attrition-Early-Warning-System/
 ## Dashboard Preview
 
 ### Executive Summary
+
 ![Executive Summary](outputs/Executive_Summary.png)
 
 ### Attrition Drivers Deep Dive
