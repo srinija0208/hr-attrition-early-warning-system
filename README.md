@@ -1,7 +1,5 @@
 # HR Attrition Early Warning System
 
-![Dashboard Preview](outputs/Active_Employees_Risk_Assessment.png)
-
 ## Problem Statement
 IBM HR dataset shows **16.12% employee attrition** (237 of 1,470 employees). This represents significant organizational cost in rehiring, training, and productivity loss. 
 
@@ -101,17 +99,29 @@ This project identifies the key factors associated with employee attrition and b
 HR-Attrition-Early-Warning-System/
 │
 ├── notebooks/
+
 │   └── pandas_analysis.ipynb
+
 ├── sql/
+
 │   └── hr_attrition_queries.sql
+
 ├── outputs/
+
 │   ├── hr_attrition.pbix
+
 │   └── hr_attrition_analysis.pdf
+
 │   ├── Executive_Summary.png
+
 │   ├── Attrition_Drivers.png
+
 │   ├── Active_Employees_Risk_Assessment.png
+
 └── README.md
+
 └── .gitignore
+
 └── LICENSE
 
 ---
@@ -157,6 +167,18 @@ HR-Attrition-Early-Warning-System/
 
 ---
 
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](outputs/Executive_Summary.png)
+
+### Attrition Drivers Deep Dive
+![Attrition Drivers Deep Dive](outputs/Attrition_Drivers.png)
+
+### Active Employees Risk Assessment
+![Active Employees Risk Assessment](outputs/Active_Employees_Risk_Assessment.png)
+
+---
 ## Author
 **Srinija** | Data Analyst | [GitHub](https://github.com/srinija0208)
 
